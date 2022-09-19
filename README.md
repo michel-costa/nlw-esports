@@ -6,7 +6,7 @@
 
 Aplicação composta pelo Front-End, Back-End e Mobile, realizado na NLW eSports da Rocketseat.
 
-Projeto feito para ajudar os gamers a encontrar um parceiro ou parceira para jogar online seu games favoritos.
+Projeto feito para ajudar os gamers a encontrar um parceiro ou parceira para jogar online seus games favoritos.
 
 
 
