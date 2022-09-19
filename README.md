@@ -18,7 +18,7 @@ Projeto feito para ajudar os gamers a encontrar um parceiro ou parceira para jog
 - [Express](https://expressjs.com)
 - [Prisma](https://www.prisma.io)
 - [SQLite](https://www.sqlite.org/index.html)
-- [yup](https://github.com/jquense/yup)
+
 
 ### Web
 
@@ -28,7 +28,7 @@ Projeto feito para ajudar os gamers a encontrar um parceiro ou parceira para jog
 - [Radix UI](https://www.radix-ui.com)
 - [React Hook Form](https://react-hook-form.com)
 - [Axios](https://axios-http.com)
-- [yup](https://github.com/jquense/yup)
+
 
 ### App
 
